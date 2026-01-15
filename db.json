@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "nama_produk": "iPhone 13",
+      "gambar": "https://cdnpro.eraspace.com/media/catalog/product/i/p/iphone_13_midnight_1.jpg",
+      "harga": 199
+    },
+    {
+      "id": "2",
+      "nama_produk": "iPhone 14",
+      "gambar": "https://cdnpro.eraspace.com/media/catalog/product/i/p/iphone_14_blue_1.jpg",
+      "harga": 299
+    },
+    {
+      "id": "3",
+      "nama_produk": "iPhone 15",
+      "gambar": "https://cdnpro.eraspace.com/media/catalog/product/a/p/apple_iphone_15_blue_1.jpg",
+      "harga": 399
+    },
+    {
+      "id": "05e7",
+      "nama_produk": "iPhone 16",
+      "gambar": "https://cdnpro.eraspace.com/media/catalog/product/i/p/iphone_16_plus_ultramarine_01_2_1.jpg",
+      "harga": 5999
+    }
+  ],
+  "kategori": [
+    {
+      "id": "1",
+      "nama_kategori": "iPhone",
+      "gambar": "https://cdnpro.eraspace.com/media/catalog/product/i/p/iphone_13_midnight_1.jpg",
+      "deskripsi": "iphone "
+    },
+    {
+      "id": "2",
+      "nama_kategori": "Mac",
+      "gambar": "https://ibox.co.id/_next/image?url=https%3A%2F%2Fcdnpro.eraspace.com%2Fmedia%2Fwysiwyg%2FProduct_Banner_MBP_M5.png&w=3840&q=75",
+      "deskripsi": "Bertenaga super berkat M5."
+    },
+    {
+      "id": "3",
+      "nama_kategori": "iPad",
+      "gambar": "https://storage.googleapis.com/productions-ccm-catalogservice/assets/ic-mbl-ct-103413232131322012044211033.webp",
+      "deskripsi": "Disukai semua. Siap berkarya. Luar biasa."
+    }
+  ]
+}
