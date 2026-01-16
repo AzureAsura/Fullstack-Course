@@ -44,5 +44,24 @@
       "gambar": "https://storage.googleapis.com/productions-ccm-catalogservice/assets/ic-mbl-ct-103413232131322012044211033.webp",
       "deskripsi": "Disukai semua. Siap berkarya. Luar biasa."
     }
+  ],
+
+  "startup": [
+    {
+        "id": "1",
+        "nama_startup": "Megatha Tech",
+        "gambar": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "deskripsi": "Disukai semua. Siap berkarya. Luar biasa.",
+        "kategori": "Edukasi",
+        "pitch": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence"
+    },
+    {
+        "id": "2",
+        "nama_startup": "Azure Tech",
+        "gambar": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070",
+        "deskripsi": "BridgeLink is a platform that connects small real estate developers in Southeast Asia with international investors looking for promising property projects. It simplifies funding, compliance, and transparency through a secure blockchain-backed dashboard.",
+        "kategori": "Lifestyle",
+        "pitch": "dafafadadadadadefrrgrggvetrvrhrtjtfdddvdfdffdddd"
+    }
   ]
 }
