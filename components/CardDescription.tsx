@@ -13,16 +13,20 @@ const CardDescription = (item: startupType) => {
     let deskripsi = item.deskripsi
 
     if (!showFullDescription) {
-        deskripsi = deskripsi.substring(0, 85)
+        if (deskripsi.length> 85) {
+            deskripsi = deskripsi.substring(0, 85) + '... '
+        }
+    } else {
+        deskripsi = deskripsi + ' '
     }
+
 
 
     return (
 
         <h3>{deskripsi}
             {deskripsi.length > 84 && (
-                <button onClick={() => setShowFullDeskripsion(!showFullDescription)} className='text-indigo-600 cursor-pointer'>...  
-                {!showFullDescription ? ' More': ' Less'}
+                <button onClick={() => setShowFullDeskripsion(!showFullDescription)} className='text-indigo-600 cursor-pointer'>{!showFullDescription ? ' More': '  Less'}
                 </button>
             )}
         </h3>

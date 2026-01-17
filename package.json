@@ -9,14 +9,17 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@uiw/react-md-editor": "^4.0.11",
     "daisyui": "^5.5.14",
     "json-server": "^1.0.0-beta.3",
+    "markdown-it": "^14.1.0",
     "next": "16.1.2",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/markdown-it": "^14.1.2",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

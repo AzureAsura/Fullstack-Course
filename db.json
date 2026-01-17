@@ -45,23 +45,46 @@
       "deskripsi": "Disukai semua. Siap berkarya. Luar biasa."
     }
   ],
-
   "startup": [
     {
-        "id": "1",
-        "nama_startup": "Megatha Tech",
-        "gambar": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "deskripsi": "Disukai semua. Siap berkarya. Luar biasa.",
-        "kategori": "Edukasi",
-        "pitch": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence"
+      "id": "1",
+      "nama_startup": "Megatha Tech",
+      "gambar": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "deskripsi": "Disukai semua. Siap berkarya. Luar biasa.",
+      "kategori": "Edukasi",
+      "pitch": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence"
     },
     {
-        "id": "2",
-        "nama_startup": "Azure Tech",
-        "gambar": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070",
-        "deskripsi": "BridgeLink is a platform that connects small real estate developers in Southeast Asia with international investors looking for promising property projects. It simplifies funding, compliance, and transparency through a secure blockchain-backed dashboard.",
-        "kategori": "Lifestyle",
-        "pitch": "dafafadadadadadefrrgrggvetrvrhrtjtfdddvdfdffdddd"
+      "id": "2",
+      "nama_startup": "Azure Tech",
+      "gambar": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070",
+      "deskripsi": "BridgeLink is a platform that connects small real estate developers in Southeast Asia with international investors looking for promising property projects. It simplifies funding, compliance, and transparency through a secure blockchain-backed dashboard.",
+      "kategori": "Lifestyle",
+      "pitch": "dafafadadadadadefrrgrggvetrvrhrtjtfdddvdfdffdddd"
+    },
+    {
+      "id": "e9fc",
+      "nama_startup": "Javascript Mastery",
+      "gambar": "https://jsmastery.com/_next/image?url=%2Fassets%2Fcompanies%2Fimages%2Fadrian-1.webp&w=640&q=75",
+      "deskripsi": "Join 1,000,000+ Developers Around the Globe",
+      "kategori": "Education",
+      "pitch": "** The no.1 platform to go from beginner to advanced developer.\n**\n\n- Access all courses + exclusive projects with Adrian\n- New lessons & tools added regularly\n- Join thousands of devs leveling up globally\n- Practice with our Mock AI Interviewer & ace your next job interview \n- 14-days money-back guarantee / 7 days guarantee on membership"
+    },
+    {
+      "id": "7918",
+      "nama_startup": "sss",
+      "gambar": "ms sxsksmxs",
+      "deskripsi": "sss",
+      "kategori": "ss",
+      "pitch": "**abogoboga**\n\n- lol\n- lelelele"
+    },
+    {
+      "id": "caed",
+      "nama_startup": "Javascript Mastery",
+      "gambar": "https://jsmastery.com/_next/image?url=%2Fassets%2Fcompanies%2Fimages%2Fadrian-1.webp&w=640&q=75",
+      "deskripsi": "Join 1,000,000+ Developers Around the Globe",
+      "kategori": "Education",
+      "pitch": "**The no.1 platform to go from beginner to advanced developer.**\n\n- 1. Access all courses + exclusive projects with Adrian\n- 2. New lessons & tools added regularly\n- 3. Join thousands of devs leveling up globally\n- 4. Practice with our Mock AI Interviewer & ace your next job interview\n- 5. 14-days money-back guarantee / 7 days guarantee on membership"
     }
   ]
 }

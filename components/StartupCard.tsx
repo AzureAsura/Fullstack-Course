@@ -1,6 +1,10 @@
 import React from 'react'
 import CardDescription from './CardDescription'
 import Link from 'next/link'
+import markdownit from 'markdown-it'
+
+const md = new markdownit()
+
 
 type startupType = {
     id: number,
@@ -13,6 +17,9 @@ type startupType = {
 }
 
 const StartupCard = (item: startupType) => {
+
+    const pitchDetails = md.render(item.pitch)
+
 
     return (
         <div className='border-4 border-black p-6 rounded-2xl flex flex-col justify-between hover:shadow-lg hover:shadow-indigo-700 hover:-translate-y-2 duration-300'>
@@ -27,14 +34,17 @@ const StartupCard = (item: startupType) => {
 
                 <CardDescription {...item} />
 
-                <img src={item.gambar} alt="startup-img" className='object-cover'/>
+                <img src={item.gambar} alt="startup-img" className='object-cover  aspect-[15/10]' />
+
+
+                <article dangerouslySetInnerHTML={{ __html: pitchDetails }} className='prose max-w-4xl font-work-sans break-all' />
 
             </div>
 
             <div className='pt-7 flex items-center justify-between'>
                 <p className='font-bold'>{item.kategori}</p>
 
-                <Link href=''>
+                <Link href={`/startup/${item.id}`}>
                     <div className='py-2 px-5 bg-black rounded-full'>
                         <p className='text-white'>Details</p>
                     </div>
