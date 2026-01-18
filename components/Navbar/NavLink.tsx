@@ -3,7 +3,6 @@ import React from 'react'
 
 const navlink = [
     {href: '/create', title: 'Create'},
-    {href: '/all-startup', title: 'All Startup'},
 ]
 
 const NavLink = () => {

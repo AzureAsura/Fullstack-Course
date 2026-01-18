@@ -38,7 +38,7 @@ const page = async () => {
             Pitch your startup, <br /> Connect with entrepreneur
           </h1>
         </div>
-        <h4 className='relative z-10 text-white mt-8 font-bold text-xl'>Submit ideas, vote on pitches, and get noticed in virtual competitions</h4>
+        <h4 className='relative z-10 text-white mt-8 font-bold text-xl text-center'>Submit ideas, vote on pitches, and get noticed in virtual competitions</h4>
       </section>
 
       <section className='max-w-7xl mx-auto px-4 py-10'>

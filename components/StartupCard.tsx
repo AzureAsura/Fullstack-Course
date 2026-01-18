@@ -37,7 +37,7 @@ const StartupCard = (item: startupType) => {
                 <img src={item.gambar} alt="startup-img" className='object-cover  aspect-[15/10]' />
 
 
-                <article dangerouslySetInnerHTML={{ __html: pitchDetails }} className='prose max-w-4xl font-work-sans break-all' />
+                {/* <article dangerouslySetInnerHTML={{ __html: pitchDetails }} className='prose max-w-4xl font-work-sans break-all' /> */}
 
             </div>
 

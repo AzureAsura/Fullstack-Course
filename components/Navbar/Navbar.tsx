@@ -5,7 +5,7 @@ import NavLink from './NavLink'
 
 const Navbar = () => {
   return (
-    <nav className='w-full bg-white shadow-md fixed z-50'>
+    <nav className='w-full bg-white shadow-md fixed z-50 top-0'>
         <div className='max-w-7xl mx-auto px-4 py-5 flex justify-between items-center'>
             <Link href='/'>
                 <Image src='/next.svg' alt='logo' width={100} height={60} className='object-contain' priority/>
